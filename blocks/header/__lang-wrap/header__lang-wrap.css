@@ -1,0 +1,5 @@
+.header__lang-wrap {
+  display: flex;
+  gap: 18px;
+  padding-top: 14px;
+}
