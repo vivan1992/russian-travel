@@ -1,0 +1,5 @@
+.place__paragraph-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
