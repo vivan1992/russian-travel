@@ -1,15 +1,24 @@
 .intro {
   padding-top: 92px;
+  width: calc(100vw - 296px);
+}
+
+@media screen and (max-width: 1279px) {
+  .intro {
+    width: calc(100vw - 96px);
+  }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
     padding-top: 88px;
+    width: calc(100vw - 48px);
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro {
     padding-top: 64px;
+    width: calc(100vw - 32px);
   }
 }
