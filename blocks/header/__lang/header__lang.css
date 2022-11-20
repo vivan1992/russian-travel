@@ -4,6 +4,11 @@
   line-height: 1.2;
   color: #FFFFFF;
   text-decoration: none;
+  transition: opacity 350ms ease;
+}
+
+.header__lang:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
