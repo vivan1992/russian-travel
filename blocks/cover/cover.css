@@ -1,7 +1,7 @@
 .cover {
   background: url('../../images/cover-trains.jpg') center center/cover no-repeat;
-  width: calc(100% - 96px);
-  min-height: calc((100vw - 96px)/1.6);
+  width: 1184px;
+  min-height: 740px;
   display: flex;
   position: relative;
 }

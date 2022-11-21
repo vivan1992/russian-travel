@@ -1,5 +1,9 @@
 .header__lang-wrap {
+  margin: 0;
+  padding: 0;
   display: flex;
   gap: 18px;
   padding-top: 14px;
+  list-style-type: none;
+
 }
